@@ -3,10 +3,9 @@
 Finance Wise is an innovative platform that helps you easily track and manage all of your expenses. With its user-friendly interface, you can quickly and easily visualize and plan better for your travel, office, and family expenses. No more hassle with paper receipts or trying to remember what you spent money on – Finance Wise has you covered. Whether you're a busy professional, a family man or woman, or just looking for a better way to manage your finances, Finance Wise is the perfect solution.
 
 ### 🧙 Basic Functionality Available:
-- Player View
-- Admin View
-- Authentication Module
-- Live Dashboard View
+- Track Basic Expense
+- Profile View
+- Analytics View
 
 ### 🌈 Contributions:
 Please feel free to contribute:
