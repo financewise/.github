@@ -13,7 +13,7 @@ Please feel free to contribute:
 - Raise PR
 - Let the maintainers know why the change is needed
 - Rasie a Bug or Security Vulnerability for the repo
-- Start a [discussion]() or reach out in the existing discussions channel
+- Start a [discussion](https://github.com/orgs/financewise/discussions) or reach out in the existing discussions channel
 
 ### 🙋‍ About Us:
 
