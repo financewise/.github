@@ -17,8 +17,6 @@ Please feel free to contribute:
 ### 🙋‍ About Us:
 At a local cafe, over a cup of tea, we discussed how there was no tool that allowed for easy management of complete finance. We found that many of the tools available were either too expensive for personal usage or too complex to perform simple tasks. This sparked the idea for Finance Wise, a platform that would provide an easy and affordable solution for managing finances. Our team is dedicated to making finance management accessible and straightforward for everyone, no matter their level of experience. We hope that with Finance Wise, you'll find it easier to track and manage your expenses and plan for the future.
 
-### 🍿 Other Projects:
-- [Quiz Roulette](https://github.com/quiz-roulette)
 
 <!-- 
 **Here are some ideas to get you started:**
